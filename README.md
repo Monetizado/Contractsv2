@@ -41,7 +41,7 @@ You can use monetized to protect pages so that only subscribers can see it, as i
 ## Contract Id
 Monetizado is implemented in:
 
-- **Polkadot Asset Hub (testnet)**: https://westend-asset-hub-eth-explorer.parity.io/address/0x86f5304600627e7897AaAfAD39853e3D18E71B43
+- **Polkadot Asset Hub (testnet)**: https://blockscout-asset-hub.parity-chains-scw.parity.io/address/0x86f5304600627e7897AaAfAD39853e3D18E71B43
 
 
 ## Use Monetizado
