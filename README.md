@@ -6,6 +6,11 @@ Monetizado is an on-chain pay-per-view platform that allows you to monetize any 
 
 With Monetizado, you can implement it on news sites, social networks, exclusive content portals, and more. You could also use it to incentivize users to pay not to see advertising on your sites.
 
+## Demo and other links
+
+- Demo with Polkadot Asset Hub: https://monetizado.github.io/demoassethub/index.html
+- Manager (to create and manage contents, withdraw money and check the amount available to withdraw): https://monetizado.github.io/managerassethub/index.html
+
 
 ## Features
 Monetizado allows you to:
