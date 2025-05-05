@@ -13,6 +13,7 @@ To integrate Monetizado in your sites (web2 apps, static pages, etc.), use the J
 
 - Demo with Polkadot Asset Hub: https://monetizado.github.io/demoassethub/index.html
 - Manager (to create and manage contents, withdraw money and check the amount available to withdraw): https://monetizado.github.io/managerassethub/index.html
+- Video demo: https://www.youtube.com/watch?v=astqvaTVBAo
 
 
 ## Features
@@ -23,7 +24,7 @@ Monetizado allows you to:
 - Verify if a user has access to your content.
 - Withdraw the money collected for your content.
 
-_This version is a simplified version, with less features (not necessaries right now)._
+_This version is a simplified version, with fewer features (not required right now)._
 
 ## Use case
 You can use monetized to protect pages so that only subscribers can see it, as in:
@@ -110,6 +111,6 @@ function withdraw(uint256 sequenceId, uint256 amount) external
 ```
 
 ### Frontend
-To use Monetized from the frontend (if you don't have access to the backend or have static content), you can use the available JavaScript library: https://github.com/Monetizado/monetizadojs 
+To use Monetized from the frontend (if you don't have access to the backend or have static content), you can use the available JavaScript library: https://github.com/Monetizado/monetizadov2js 
 
 
